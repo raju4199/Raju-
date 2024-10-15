@@ -1,4 +1,4 @@
-# 👨‍💻 Raju Ranjan - Cybersecurity Enthusiast | Developer | Security Analyst
+# 👨‍💻 Raju Ranjan - Cybersecurity Enthusiast | Web Developer | 
 
 ![Hacker Animation](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
 
@@ -56,7 +56,7 @@ Hi there! I am **Raju Ranjan**, a cybersecurity enthusiast with a strong backgro
 
 ---
 
-## 🎬 Animation of a Hacker at Work (With Security and Developer Combos)
+
 
 The perfect blend of hacking, security, and development is visualized in this GitHub repository! Check out the hacker animation below:
 
