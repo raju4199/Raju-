@@ -56,18 +56,38 @@ Hi there! I am **Raju Ranjan**, a cybersecurity enthusiast with a strong backgro
 
 ---
 
-## 📈 GitHub Contribution Activity
 
-Here’s a snapshot of my recent coding activity and contributions across different repositories:
 
-![Raju's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajuRanjan03&theme=react-dark)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aishworyann/aishworyann/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+<hr/>
 
----
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Stats
+| ![Aishworyann github stats](https://github-readme-stats.vercel.app/api?username=aishworyann\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Aishworyann GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishworyann&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+<hr>
 
-## 🚀 GitHub Stats
+<!-- <div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aishworyann&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aishworyann&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aishworyann&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div> -->
 
-![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuRanjan03&show_icons=true&theme=radical)
+<br/>
+<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Signing+OFF!+👋;" />
+</h1>
+</div>
+<br/>
 
+<hr/>
 
 ---
 
