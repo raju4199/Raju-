@@ -60,16 +60,13 @@ Hi there! I am **Raju Ranjan**, a cybersecurity enthusiast with a strong backgro
 
 Here’s a snapshot of my recent coding activity and contributions across different repositories:
 
-![Raju's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=RajuRanjan03&theme=github)
+![Raju's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RajuRanjan03&theme=react-dark)
 
 ---
 
-## 🛠️ Coding in Action
+## 🚀 GitHub Stats
 
-Check out this animation that represents the blend of a hacker, security expert, and developer all at work:
-
-![Developer Animation](https://media.giphy.com/media/l0ExuZ74ElCsgC4Ew/giphy.gif)
-
+![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuRanjan03&show_icons=true&theme=radical)
 
 
 ---
