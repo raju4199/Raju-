@@ -68,7 +68,7 @@ Hi there! I am **Raju Ranjan**, a cybersecurity enthusiast with a strong backgro
 <hr/>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Stats
-| ![Aishworyann github stats](https://github-readme-stats.vercel.app/api?username=aishworyann\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Aishworyann GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishworyann&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Raju github stats](https://github-readme-stats.vercel.app/api?username=raju4199\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Raju GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raju4199&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 <hr>
 
@@ -81,9 +81,7 @@ Hi there! I am **Raju Ranjan**, a cybersecurity enthusiast with a strong backgro
 
 <br/>
 <div align="center">
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Signing+OFF!+👋;" />
-</h1>
+
 </div>
 <br/>
 
@@ -100,3 +98,6 @@ Hi there! I am **Raju Ranjan**, a cybersecurity enthusiast with a strong backgro
 ---
 
 ### 🌟 "Hacking isn't about breaking the system. It's about learning how the system works and making it stronger."
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Signing+OFF!+👋;" />
+</h1>
